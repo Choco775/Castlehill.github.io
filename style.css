@@ -135,6 +135,10 @@ header {
   overflow: hidden;
 }
 
+.Logo{
+  margin-top: 50vh
+}
+
 /* Slogan */
 .company{
 	text-align: center;
